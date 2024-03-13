@@ -1,52 +1,50 @@
 [
     {
-        "id": "789012",
-        "cover": "https://i.ibb.co/4W5fy9k/lily-valley-bouquet-with-alarm-clock-eyeglasses-laptop-blue-office-desk.jpg",
+        "id": "1",
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
         "title": "The Mystery of Emerald Cove",
         "author": "Samantha Jameson",
-        "author_img": "https://i.ibb.co/qR6Ymsp/irene-strong-v2a-Knj-Mb-P-k-unsplash.jpg",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
         "posted_date": "March 13, 2024",
         "reading_time": 25,
-        "hashtags": ["#mystery", "#adventure", "#fiction"]
+        "hashtags": ["mystery",
+        "adventure",
+        "fiction"]
     },
     {
-        "id": "234567",
-        "cover": "https://i.ibb.co/VVSQwFk/dose-media-b-U6-Jyh-SI6zo-unsplash.jpg",
+        "id": "2",
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
         "title": "Beyond the Stars",
         "author": "David Blackwood",
-        "author_img": "https://i.ibb.co/b64cYD3/tim-mossholder-0n126-RMSSLk-unsplash.jpg",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
         "posted_date": "March 12, 2024",
         "reading_time": 30,
-        "hashtags": ["#scifi", "#space", "#exploration"]
+        "hashtags": ["scifi", 
+        "space", 
+        "exploration"]
     },
     {
-        "id": "890123",
-        "cover": "https://i.ibb.co/tJZSwPJ/eugenio-mazzone-6ywyo2qta-Z8-unsplash.jpg",
+        "id": "3",
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
         "title": "Echoes of Eternity",
         "author": "Emily Roberts",
-        "author_img": "https://i.ibb.co/2dG1hmM/samuel-raita-Ri-Dx-Dg-Hg7pw-unsplash.jpg",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
         "posted_date": "March 11, 2024",
         "reading_time": 20,
-        "hashtags": ["#fantasy", "#magic", "#adventure"]
+        "hashtags": ["fantasy", 
+        "magic", 
+        "adventure"]
     },
     {
-        "id": "456789",
-        "cover": "https://i.ibb.co/cXVr5Kf/jazmin-quaynor-7-Hu4i-Wksw2k-unsplash.jpg",
+        "id": "4",
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
         "title": "City of Shadows",
         "author": "Michael Thompson",
-        "author_img": "https://i.ibb.co/wLxnRb8/harry-cunningham-EPi3-TRQc5-Z0-unsplash.jpg",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
         "posted_date": "March 10, 2024",
         "reading_time": 35,
-        "hashtags": ["#thriller", "#mystery", "#suspense"]
-    },
-    {
-        "id": "012345",
-        "cover": "https://i.ibb.co/WnB1vSt/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg",
-        "title": "The Forgotten Key",
-        "author": "Sarah Johnson",
-        "author_img": "https://i.ibb.co/CMj0Lmv/kazi-mizan-PDDf-Weh44m8-unsplash.jpg",
-        "posted_date": "March 9, 2024",
-        "reading_time": 22,
-        "hashtags": ["#historical", "#mystery", "#adventure"]
+        "hashtags": ["thriller", 
+        "mystery", 
+        "suspense"]
     }
 ]
